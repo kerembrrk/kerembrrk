@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @keremduck
-- 👀 I’m interested in Javascript.
-- 😄 Pronouns: he/him
-
+- Merhaba ben Kerem 🙌
+- Kendi halinde takılan, heniz liseden mezun olmuş bir gencim! 🙂‍↔️
